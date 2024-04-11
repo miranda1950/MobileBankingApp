@@ -1,0 +1,218 @@
+{
+  "user_id": "1",
+  "acounts": [
+    {
+      "id": "1",
+      "IBAN": "HR123456789012345678901",
+      "amount": "2.523,00",
+      "currency": "HRK",
+      "transactions": [
+        {
+          "id": "1",
+          "date": "25.01.2016.",
+          "description": "Uplata 1",
+          "amount": "15,00 HRK"
+        },
+        {
+          "id": "2",
+          "date": "17.02.2016.",
+          "description": "Uplata 2",
+          "amount": "50,00 HRK",
+          "type": "GSM VOUCHER"
+        },
+        {
+          "id": "3",
+          "date": "03.08.2015.",
+          "description": "Uplata 3",
+          "amount": "150,00 HRK",
+          "type": "EXCHANGE"
+        },
+        {
+          "id": "4",
+          "date": "30.10.2016.",
+          "description": "Uplata 4",
+          "amount": "1523,33 HRK"
+        },
+        {
+          "id": "5",
+          "date": "01.05.2016.",
+          "description": "Uplata 5",
+          "amount": "452,00 HRK"
+        },
+        {
+          "id": "6",
+          "date": "22.09.2016.",
+          "description": "Uplata 6",
+          "amount": "649,85 HRK"
+        },
+        {
+          "id": "7",
+          "date": "03.03.2016.",
+          "description": "Uplata 7",
+          "amount": "14,00 HRK"
+        },
+        {
+          "id": "8",
+          "date": "25.01.2016.",
+          "description": "Uplata 8",
+          "amount": "23,23 HRK"
+        },
+        {
+          "id": "9",
+          "date": "01.04.2016.",
+          "description": "Uplata 9",
+          "amount": "0,23 HRK"
+        },
+        {
+          "id": "10",
+          "date": "14.05.2015.",
+          "description": "Uplata 0",
+          "amount": "115,00 HRK",
+          "type": "EXCHANGE"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "IBAN": "HR222233334444555577771",
+      "amount": "0,52",
+      "currency": "EUR",
+      "transactions": [
+        {
+          "id": "1",
+          "date": "25.01.2016.",
+          "description": "Uplata 1",
+          "amount": "15,00 EUR"
+        },
+        {
+          "id": "2",
+          "date": "17.02.2016.",
+          "description": "Uplata 2",
+          "amount": "50,00 EUR",
+          "type": "GSM VOUCHER"
+        },
+        {
+          "id": "3",
+          "date": "03.08.2015.",
+          "description": "Uplata 3",
+          "amount": "150,00 EUR",
+          "type": "EXCHANGE"
+        },
+        {
+          "id": "4",
+          "date": "30.10.2016.",
+          "description": "Uplata 4",
+          "amount": "1523,33 EUR"
+        },
+        {
+          "id": "5",
+          "date": "01.05.2016.",
+          "description": "Uplata 5",
+          "amount": "452,00 EUR"
+        },
+        {
+          "id": "6",
+          "date": "22.09.2016.",
+          "description": "Uplata 6",
+          "amount": "649,85 EUR"
+        },
+        {
+          "id": "7",
+          "date": "03.03.2016.",
+          "description": "Uplata 7",
+          "amount": "14,00 EUR"
+        },
+        {
+          "id": "8",
+          "date": "25.01.2016.",
+          "description": "Uplata 8",
+          "amount": "23,23 EUR"
+        },
+        {
+          "id": "9",
+          "date": "01.04.2016.",
+          "description": "Uplata 9",
+          "amount": "0,23 EUR"
+        },
+        {
+          "id": "10",
+          "date": "14.05.2015.",
+          "description": "Uplata 0",
+          "amount": "115,00 EUR",
+          "type": "EXCHANGE"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "IBAN": "HR333334444499999888887",
+      "amount": "22.000,25",
+      "currency": "USD",
+      "transactions": [
+        {
+          "id": "1",
+          "date": "25.01.2016.",
+          "description": "Uplata 1",
+          "amount": "15,00 USD"
+        },
+        {
+          "id": "2",
+          "date": "17.02.2016.",
+          "description": "Uplata 2",
+          "amount": "50,00 USD",
+          "type": "GSM VOUCHER"
+        },
+        {
+          "id": "3",
+          "date": "03.08.2015.",
+          "description": "Uplata 3",
+          "amount": "150,00 USD",
+          "type": "EXCHANGE"
+        },
+        {
+          "id": "4",
+          "date": "30.10.2016.",
+          "description": "Uplata 4",
+          "amount": "1523,33 USD"
+        },
+        {
+          "id": "5",
+          "date": "01.05.2016.",
+          "description": "Uplata 5",
+          "amount": "452,00 USD"
+        },
+        {
+          "id": "6",
+          "date": "22.09.2016.",
+          "description": "Uplata 6",
+          "amount": "649,85 USD"
+        },
+        {
+          "id": "7",
+          "date": "03.03.2016.",
+          "description": "Uplata 7",
+          "amount": "14,00 USD"
+        },
+        {
+          "id": "8",
+          "date": "25.01.2016.",
+          "description": "Uplata 8",
+          "amount": "23,23 USD"
+        },
+        {
+          "id": "9",
+          "date": "01.04.2016.",
+          "description": "Uplata 9",
+          "amount": "0,23 USD"
+        },
+        {
+          "id": "10",
+          "date": "14.05.2015.",
+          "description": "Uplata 0",
+          "amount": "115,00 USD",
+          "type": "EXCHANGE"
+        }
+      ]
+    }
+  ]
+}
